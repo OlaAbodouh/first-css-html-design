@@ -1,13 +1,17 @@
-#Leon
+# Leon – Creative & Minimal Agency Template
 
-This project is built using **HTML**, **CSS**.
+A clean and modern website built using **HTML** and **CSS**.  
+This project focuses on elegant design, smooth layout, and full responsiveness across different devices.
 
-## Description
-A simple responsive website designed with HTML & CSS.
+## 🌟 Features
+- Fully responsive design using HTML & CSS  
+- Clean and minimal user interface  
+- Sections include: Services, Portfolio, About, and Contact  
+- Smooth scrolling and organized structure  
 
-## Features
-- Responsive layout using Bootstrap.
-- Navbar, carousel, and cards from Bootstrap components.
+## 🚀 Live Demo
+[🔗 View the website here](https://olaabodouh.github.io/first-css-html-design/)
 
-## Live Demo
-[🔗 View the website here](https://yourprojectlink.github.io)
+---
+
+💡 *This project was created as a practice for front-end development .*
